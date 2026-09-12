@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/arrimaniusothmane-prog/arrimaniusothmane-prog/main/assets/banner.svg" alt="Othmane Amjahdi — Full-Stack Developer" width="100%">
+
 <div align="center">
 
 # 👋 Hi, I'm Othmane Amjahdi
@@ -75,6 +77,8 @@ I build modern, scalable and user-focused web applications.
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://arrimanius.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/othmane-arrimanius)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/othmane)
+[![X / Twitter](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/othmane)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arrimaniusothmane-prog)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arrimaniusothmane@gmail.com)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=arrimaniusothmane-prog&style=flat-square&color=0366d6)
