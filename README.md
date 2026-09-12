@@ -1,90 +1,171 @@
-<img src="https://raw.githubusercontent.com/arrimaniusothmane-prog/arrimaniusothmane-prog/main/assets/banner.svg" alt="Othmane Amjahdi — Full-Stack Developer" width="100%">
+<div align="center">
+  <img height="155" src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif" />
+</div>
+
+<h1 align="center">Hi 👋, I'm Othmane Amjahdi</h1>
+<h3 align="center">Full Stack Developer (MERN + Next.js) from Morocco 🇲🇦</h3>
+
+<div align="center">
+  <a href="https://user-badge.committers.top/morocco_private/arrimaniusothmane-prog">
+    <img src="https://user-badge.committers.top/morocco_private/arrimaniusothmane-prog.svg" alt="committers.top private badge" />
+  </a>
+  &nbsp;
+  <a href="https://user-badge.committers.top/morocco/arrimaniusothmane-prog">
+    <img src="https://user-badge.committers.top/morocco/arrimaniusothmane-prog.svg" alt="committers.top public badge" />
+  </a>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=arrimaniusothmane-prog&style=flat-square&color=0a84d3" alt="profile views" />
+</div>
+
+<br/>
+
+```ts
+const othmane = {
+  name:     "Othmane Amjahdi",
+  role:     "Full Stack Developer",
+  location: "Morocco 🇲🇦",
+  stack:    ["MongoDB", "Express", "React", "Node.js", "Next.js", "TypeScript", "PostgreSQL"],
+  styling:  ["Tailwind CSS", "Bootstrap", "CSS3", "HTML5"],
+  ui_libs:  ["shadcn/ui", "MUI", "Radix UI"],
+  data:     ["TanStack Table"],
+  tooling:  ["Vite", "Git", "GitHub", "VSCode", "Vercel"],
+  building: ["Marketplaces", "SaaS", "E-commerce", "Digital platforms"],
+  ai_tools: ["Claude Code", "OpenCode", "ChatGPT", "Gemini"],
+  contact:  "arrimaniusothmane@gmail.com",
+  funFact:  "Build. Learn. Ship. Repeat. ⚡🙃",
+};
+```
+
+---
+
+<h2 align="center">🚀 About Me</h2>
+
+<p align="center">
+  💻 Full-Stack Web Developer<br/>
+  🌐 Specialized in modern web applications<br/>
+  🧠 Interested in AI, SaaS & digital products<br/>
+  🏗️ Building marketplaces, platforms & e-commerce solutions<br/>
+  📚 Always learning and experimenting with new technologies
+</p>
+
+---
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=arrimaniusothmane-prog&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=true&rank_icon=github" height="160" alt="stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=arrimaniusothmane-prog&layout=compact&langs_count=8&theme=dracula&hide_border=true" height="160" alt="languages" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=arrimaniusothmane-prog&theme=dracula&hide_border=true&border_radius=5&mode=daily" height="160" alt="streak" />
+</div>
+
+---
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arrimaniusothmane-prog&theme=dracula&hide_border=true&area=true" alt="activity graph" />
+</div>
+
+---
+
+<h2 align="center">🛠️ Tech Stack & Tools</h2>
 
 <div align="center">
 
-# 👋 Hi, I'm Othmane Amjahdi
+**Frontend**
 
-### Full-Stack Developer 🇲🇦
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html&theme=dark" alt="frontend" />
 
-I build modern, scalable and user-focused web applications.
+<br/>
 
----
+**Styling**
 
-## 🚀 About Me
+<img src="https://skillicons.dev/icons?i=tailwind,bootstrap,css&theme=dark" alt="styling" />
 
-- 💻 Full-Stack Web Developer
-- 🌐 Specialized in modern web applications
-- 🧠 Interested in AI, SaaS & digital products
-- 🏗️ Building marketplaces, platforms & e-commerce solutions
-- 🚀 Always learning and experimenting with new technologies
+<br/>
 
----
+**Backend & Frameworks**
 
-## 🛠️ Tech Stack
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="backend" />
 
-### Frontend
+<br/>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+**Databases**
 
-### Backend
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark" alt="databases" />
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+<br/>
 
-### Tools
+**DevOps & Tools**
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman,vercel,vscode&theme=dark" alt="devops" />
+
+<br/>
+
+**AI Coding Tools**
+
+<img src="https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white" alt="claude code" />
+&nbsp;
+<img src="https://img.shields.io/badge/OpenCode-0EA5E9?style=for-the-badge&logo=terminal&logoColor=white" alt="opencode" />
+&nbsp;
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="chatgpt" />
+&nbsp;
+<img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white" alt="gemini" />
+
+</div>
 
 ---
 
-## 📌 Current Focus
+<h2 align="center">📂 Featured Projects</h2>
 
-> Building professional web platforms, SaaS products and digital solutions.
-
----
-
-## 📂 Featured Projects
+<div align="center">
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [Service Marketplace](https://github.com/arrimaniusothmane-prog/Web-development-marketplace) | A platform connecting clients with verified digital service providers | TypeScript |
-| [Real Estate Marketplace](https://github.com/arrimaniusothmane-prog/portdouae) | A property listing platform for apartments, villas and land | CSS |
+| [Service Marketplace](https://github.com/arrimaniusothmane-prog/Web-development-marketplace) | Platform connecting clients with verified digital service providers | TypeScript |
+| [Real Estate Marketplace](https://github.com/arrimaniusothmane-prog/portdouae) | Property listing platform for apartments, villas and land | CSS |
 | [E-commerce Platforms](https://github.com/arrimaniusothmane-prog/ecomme-) | Modern online stores with product management, orders and dashboards | JavaScript |
 
----
-
-## 📊 GitHub Stats
-
-![Othmane's GitHub stats](https://github-readme-stats.vercel.app/api?username=arrimaniusothmane-prog&show_icons=true&theme=transparent)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arrimaniusothmane-prog&layout=compact&theme=transparent)
-
----
-
-## 🤝 Let's Connect
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://arrimanius.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/othmane-arrimanius)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/othmane)
-[![X / Twitter](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/othmane)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/arrimaniusothmane-prog)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:arrimaniusothmane@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=arrimaniusothmane-prog&style=flat-square&color=0366d6)
-
----
-
-### ⚡ Build. Learn. Ship. Repeat.
-
 </div>
+
+---
+
+<h2 align="center">🌐 Connect with me</h2>
+
+<div align="center">
+  <a href="https://arrimanius.dev" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&style=for-the-badge" height="35" alt="portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/othmane-arrimanius" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/arrimanius/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram" />
+  </a>
+  &nbsp;
+  <a href="mailto:arrimaniusothmane@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail" />
+  </a>
+  &nbsp;
+  <a href="https://wa.me/212645165543" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&style=for-the-badge" height="35" alt="whatsapp" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/arrimaniusothmane-prog" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&style=for-the-badge" height="35" alt="github" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=22&center=true&vCenter=true&width=500&height=60&duration=4000&lines=Thanks+for+visiting!+✌️;Shoot+me+a+message+on+LinkedIn!;Always+down+to+collab+🚀" />
+</div>
+
+<!-- FOOTER -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a84d3,100:6a0dad&height=100&section=footer&animation=fadeIn" />
