@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="155" src="https://media4.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif" />
+  <img height="155" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Othmane Amjahdi</h1>
